@@ -1,0 +1,38 @@
+[
+    {
+        "vid_name": "back_squat",
+        "end_frame": 107,
+        "start_frame": 0,
+        "label": "0"
+    },
+    {
+        "vid_name": "front_squat",
+        "end_frame": 93,
+        "start_frame": 0,
+        "label": "0"
+    },
+    {
+        "vid_name": "side_jumping_jacks",
+        "end_frame": 92,
+        "start_frame": 0,
+        "label": "1"
+    },
+    {
+        "vid_name": "side_squat",
+        "end_frame": 107,
+        "start_frame": 0,
+        "label": "0"
+    },
+    {
+        "vid_name": "front_jumping_jacks",
+        "end_frame": 72,
+        "start_frame": 0,
+        "label": "1"
+    },
+    {
+        "vid_name": "back_jump_jacks",
+        "end_frame": 45,
+        "start_frame": 0,
+        "label": "1"
+    }
+]
